@@ -1,6 +1,6 @@
 # Penetration Testing Summary Reports
 
-## MegaCorpOne Penetration Test Report
+## <a href="https://github.com/Carljo32/Pen_testing_Summary/blob/main/MegaCorp_Pentest.md"> MegaCorpOne Penetration Test Report
 
 This file is my final submission of the challenge assignment for Modules 16 &amp; 17 of UCI's Cybersecurity  Bootcamp.
 
