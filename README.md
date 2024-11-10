@@ -10,7 +10,7 @@ In my report, I outlined the vulnerabilities I discovered and offered recommende
 
 
 
-## <a href="https://github.com/Carljo32/RekallCorp_pentest_project2"> Rekall Corporation Penetration Test Report
+## <a href="https://github.com/Carljo32/Pen_testing_Summary/blob/main/RekallCorp_Pentest.md"> Rekall Corporation Penetration Test Report
 
 This file is the final submission for Project 2 of UCI's Cybersecurity  Bootcamp.
 
