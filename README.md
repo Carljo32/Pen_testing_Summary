@@ -1,6 +1,20 @@
 # Penetration Testing Summary Reports
 ##### UCI's Cybersecurity Boot Camp Project #2
 
+This repository is meant to demonstrate my offensive security projects during UCI’s Cybersecurity Boot Camp.
+
+In the MegaCorpOne project, I conducted a two-week penetration test, uncovering vulnerabilities in web applications, Linux servers, Windows workstations, and Domain Controllers. For the Rekall Corporation project, I completed a focused three-day assessment, identifying security weaknesses and providing actionable remediation strategies.
+
+These projects highlight my hands-on experience in penetration testing and my commitment to strengthening cybersecurity defenses.
+
+### Cybersecurity Tools Used:
+- <b>Network Scanning & Vulnerability Assessment:</b> Nmap/Zenmap, Nessus
+- <b>Exploitation Frameworks: </b> Metasploit, MsVenom
+- <b>Web Security Testing:</b> Burp Suite
+- <b>OSINT Tools:</b> Recon-ng, Google Dorking, GitHub
+- <b>Virtual Environments:</b> Hyper-V Manager, Azure Windows VMs
+
+
 ## <a href="https://github.com/Carljo32/Pen_testing_Summary/blob/main/MegaCorp_Pentest.md"> MegaCorpOne Penetration Test Report
 
 This file is my final submission of the challenge assignment for Modules 16 &amp; 17 of UCI's Cybersecurity  Bootcamp.
