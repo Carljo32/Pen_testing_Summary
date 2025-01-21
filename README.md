@@ -12,7 +12,7 @@ These projects highlight my hands-on experience in penetration testing and my co
 - <b>Exploitation Frameworks: </b> Metasploit, MsVenom
 - <b>Web Security Testing:</b> Burp Suite
 - <b>OSINT Tools:</b> Recon-ng, Google Dorking, GitHub
-- <b>Virtual Environments:</b> Hyper-V Manager, Azure Windows VMs
+- <b>Virtual Environments:</b> Kali Linux, Windows 10, Hyper-V Manager, Azure Windows VMs
 
 
 ## <a href="https://github.com/Carljo32/Pen_testing_Summary/blob/main/MegaCorp_Pentest.md"> MegaCorpOne Penetration Test Report
