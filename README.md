@@ -21,7 +21,7 @@ These projects highlight my hands-on experience in penetration testing and my co
 
 This file is my final submission of the challenge assignment for Modules 16 &amp; 17 of UCI's Cybersecurity  Bootcamp.
 
-For this assignment, I conducted a mock penetration test on the fictional corporation, MegaCorpOne. Over two weeks, I explored and attempted to exploit a web application, Linux servers, a Windows workstation, and a Windows Domain Controller. At the end of the testing period, I prepared a report for MegaCorpOne’s management to summarize my findings.
+For this assignment, I conducted a mock penetration test on the fictional corporation, MegaCorpOne. Over two weeks, I explored and attempted to exploit Linux servers, a Windows workstation, and a Windows Domain Controller. At the end of the testing period, I prepared a report for MegaCorpOne’s management to summarize my findings.
 
 In my report, I outlined the vulnerabilities I discovered and offered recommended remediation strategies to address each identified security weakness.
 
